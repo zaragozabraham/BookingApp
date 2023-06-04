@@ -1,6 +1,6 @@
 export const variantStyles = {
   solid: {
-    blue: 'rounded-full px-4 py-1 justify-center items-center bg-blue-600 text-white text-sm hover:bg-blue-500',
+    blue: 'rounded-full px-4 py-2 justify-center items-center bg-blue-600 text-white text-sm hover:bg-blue-500',
     dark: 'rounded-full px-4 py-1 justify-center items-center bg-slate-900 text-white text-sm hover:bg-slate-700',
     fuchsia: 'rounded-full px-4 py-1 justify-center items-center bg-fuchsia-600 text-white text-sm hover:bg-fuchsia-500'
   },
