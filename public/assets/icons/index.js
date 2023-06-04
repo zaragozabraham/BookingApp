@@ -1,0 +1,5 @@
+export { default as avatarIcon } from './avatar.svg'
+export { default as calendarIcon } from './calendar.svg'
+export { default as locationIcon } from './location.svg'
+export { default as menuIcon } from './menu.svg'
+export { default as searchIcon } from './search.svg'
