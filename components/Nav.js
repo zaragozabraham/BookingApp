@@ -9,7 +9,7 @@ const links = [
 
 function Nav () {
   return (
-    <header className='mx-auto max-w-[95rem]'>
+    <header className='mx-auto max-w-[90rem]'>
       <nav className='flex justify-between py-4'>
         <p className='text-blue-600 text-[1.25rem] font-semibold'>BookingApp</p>
         <ul className='flex gap-11'>
