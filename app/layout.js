@@ -11,7 +11,7 @@ export const metadata = {
 
 export default function RootLayout ({ children }) {
   return (
-    <html className='px-4' lang='en'>
+    <html lang='en'>
       <body className={roboto.className}>
         <Nav />
         {children}

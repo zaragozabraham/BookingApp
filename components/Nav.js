@@ -9,8 +9,8 @@ const links = [
 
 function Nav () {
   return (
-    <header>
-      <nav className='flex justify-around py-4'>
+    <header className='mx-auto max-w-[95rem]'>
+      <nav className='flex justify-between py-4'>
         <p className='text-blue-600 text-[1.25rem] font-semibold'>BookingApp</p>
         <ul className='flex gap-11'>
           {links.map(link => <NavLink key={link.label} href={link.path}>{link.label}</NavLink>)}
